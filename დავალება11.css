@@ -1,0 +1,90 @@
+body{
+
+background: #FFFFFF;
+}
+.container {
+    box-sizing: border-box;
+
+
+width: 370px;
+height: 606px;
+margin-left: 496px;
+margin-top: 209px;
+
+background: #FDFDFD;
+border: 1px solid #F3F3F3;
+border-radius: 10px;
+    
+}
+img {
+margin-top: 39px;
+
+width: 266px;
+height: 272.38px;
+background-image: url(francesco-1bBCtUAUMFI-unsplash\ 1.png);
+
+border-radius: 10px;
+
+}
+.title
+{
+    
+width: 266px;
+height: 42px;
+padding-left: 51px;
+font-family: 'sanserif';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+margin-top: 3.6px;
+color: #000000;
+    
+}
+
+hr {
+    width: 266px;
+    height: 0px;
+
+    border: 1px solid #F1F1F1;
+}
+.text {
+    width: 266px;
+    height: 101px;
+    padding-left: 51px;
+    
+    font-family: 'sanserif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #353535;
+}
+.small {
+    width: 66px;
+    height: 25px;
+    padding-left: 253px;
+    padding-bottom: 19px;
+    font-family: 'sanserif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    
+    color: #5076FF;
+}
+.date {
+    
+width: 397px;
+height: 17px;
+padding-top: 10px;
+padding-left: 51px;
+font-family: 'math';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #D2D2D2;
+
+}
